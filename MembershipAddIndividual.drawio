@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-15T18:38:53.149Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="HBktsPxEZ5A_BnIOSJcn" version="13.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-15T19:37:14.576Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="9KEcsyzVFEDm27WRQbqF" version="13.4.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -92,8 +92,8 @@
         <mxCell id="0ht5I2Jy_2EhBemdo1K_-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OvOaILnfo7wgloUsC1i8-30" target="0ht5I2Jy_2EhBemdo1K_-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OvOaILnfo7wgloUsC1i8-30" value="Create order install ment (er101s) items based on subscription items. Items are tied to the member via an id or account code" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="160" y="1050" width="120" height="105" as="geometry" />
+        <mxCell id="OvOaILnfo7wgloUsC1i8-30" value="Create order install ment (er101s) items based on subscription items. Items are tied to the member via an id or account code (shared method ideally for add/edit)" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="135" y="1050" width="170" height="105" as="geometry" />
         </mxCell>
         <mxCell id="OvOaILnfo7wgloUsC1i8-32" value="Create order members based account members" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="160" y="960" width="120" height="67" as="geometry" />
@@ -135,8 +135,8 @@
         <mxCell id="0ht5I2Jy_2EhBemdo1K_-11" value="Process" style="whiteSpace=wrap;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="160" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0ht5I2Jy_2EhBemdo1K_-19" value="Create Administrator records&lt;br&gt;" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="160" y="1170" width="120" height="105" as="geometry" />
+        <mxCell id="0ht5I2Jy_2EhBemdo1K_-19" value="Set&lt;br&gt;Administrator records via a computed column using special generic util method. Examples in profiles. Fill in list data and business by a shared util&amp;nbsp; method." style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="160" y="1170" width="130" height="140" as="geometry" />
         </mxCell>
         <mxCell id="0ht5I2Jy_2EhBemdo1K_-26" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0ht5I2Jy_2EhBemdo1K_-23" target="0ht5I2Jy_2EhBemdo1K_-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
