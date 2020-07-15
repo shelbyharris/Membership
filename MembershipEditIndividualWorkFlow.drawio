@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-15T19:37:10.626Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="n1nsKkrg9awAwgqdEqbq" version="13.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-15T19:47:43.336Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="7jAyed2Et3HZ30wDKlM2" version="13.4.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="1882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -21,12 +21,12 @@
         </mxCell>
         <mxCell id="OvOaILnfo7wgloUsC1i8-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OvOaILnfo7wgloUsC1i8-8" target="OvOaILnfo7wgloUsC1i8-26" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="220" y="780" as="sourcePoint" />
-            <mxPoint x="220" y="810" as="targetPoint" />
+            <mxPoint x="220" y="610" as="sourcePoint" />
+            <mxPoint x="220" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OvOaILnfo7wgloUsC1i8-8" value="Update Related" style="whiteSpace=wrap;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="160" y="690" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6Z5Gqcq6EbLOCwVpKTTv-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OvOaILnfo7wgloUsC1i8-1" target="6Z5Gqcq6EbLOCwVpKTTv-39">
           <mxGeometry relative="1" as="geometry" />
@@ -42,20 +42,20 @@
         </mxCell>
         <mxCell id="6Z5Gqcq6EbLOCwVpKTTv-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OvOaILnfo7wgloUsC1i8-26" target="OvOaILnfo7wgloUsC1i8-30">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="220" y="950" as="targetPoint" />
+            <mxPoint x="220" y="780" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6Z5Gqcq6EbLOCwVpKTTv-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OvOaILnfo7wgloUsC1i8-26" target="6Z5Gqcq6EbLOCwVpKTTv-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OvOaILnfo7wgloUsC1i8-26" value="Create new account membership Items for membership via account membership grid" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="160" y="820" width="120" height="67" as="geometry" />
+          <mxGeometry x="160" y="650" width="120" height="67" as="geometry" />
         </mxCell>
         <mxCell id="0ht5I2Jy_2EhBemdo1K_-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OvOaILnfo7wgloUsC1i8-30" target="0ht5I2Jy_2EhBemdo1K_-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OvOaILnfo7wgloUsC1i8-30" value="Create order install ment (er101s) items based on subscription items. Items are tied to the member via an id or account code (shared method ideally for add/edit)" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="145" y="940" width="150" height="105" as="geometry" />
+          <mxGeometry x="145" y="760" width="150" height="105" as="geometry" />
         </mxCell>
         <mxCell id="0ht5I2Jy_2EhBemdo1K_-9" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0ht5I2Jy_2EhBemdo1K_-6" target="0ht5I2Jy_2EhBemdo1K_-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -87,7 +87,7 @@
           <mxGeometry x="160" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0ht5I2Jy_2EhBemdo1K_-19" value="Set&lt;br&gt;Administrator records via a computed column using special generic util method. Examples in profiles. Fill in list data and business by a shared util&amp;nbsp; method." style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="160" y="1070" width="140" height="140" as="geometry" />
+          <mxGeometry x="148.5" y="900" width="140" height="140" as="geometry" />
         </mxCell>
         <mxCell id="0ht5I2Jy_2EhBemdo1K_-26" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0ht5I2Jy_2EhBemdo1K_-23" target="0ht5I2Jy_2EhBemdo1K_-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -201,7 +201,7 @@
           <mxGeometry x="168.5" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6Z5Gqcq6EbLOCwVpKTTv-49" value="If new items are added to an existing membership&amp;nbsp; validation question should be asked if it is desired to add to all the installments.&lt;br&gt;This should be done in the account membership items business class. That way it is handled for the grid here and for adding items via an add items window." style="ellipse;shape=cloud;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="380" y="750" width="220" height="198.38" as="geometry" />
+          <mxGeometry x="380" y="580" width="220" height="198.38" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
