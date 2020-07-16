@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2020-07-16T18:24:58.701Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="8Gmsv8EFnVdsOsalqxD2" version="13.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-16T18:51:23.304Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="DoAGvPcCpB7-Qe7Mcwix" version="13.4.4" type="github">
   <diagram id="92FPEMcWyaeNn1LILrVb" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="OdyiLV4z1GKjxeUZD-Sj-1" value="Add Individual Membership" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+        <mxCell id="OdyiLV4z1GKjxeUZD-Sj-1" value="Add Group Membership" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="160" y="80" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OdyiLV4z1GKjxeUZD-Sj-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="OdyiLV4z1GKjxeUZD-Sj-3" target="OdyiLV4z1GKjxeUZD-Sj-17">
@@ -68,17 +68,17 @@
             <mxPoint x="220" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OdyiLV4z1GKjxeUZD-Sj-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OdyiLV4z1GKjxeUZD-Sj-17" target="OdyiLV4z1GKjxeUZD-Sj-19">
+        <mxCell id="OdyiLV4z1GKjxeUZD-Sj-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OdyiLV4z1GKjxeUZD-Sj-17" target="OdyiLV4z1GKjxeUZD-Sj-46">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OdyiLV4z1GKjxeUZD-Sj-17" value="Create Membership Account Members" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="1">
-          <mxGeometry x="160" y="640" width="120" height="67" as="geometry" />
+        <mxCell id="OdyiLV4z1GKjxeUZD-Sj-17" value="Create&amp;nbsp; Account group membership record. (Data specific to group account membership)." style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="1">
+          <mxGeometry x="162.5" y="650" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="OdyiLV4z1GKjxeUZD-Sj-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OdyiLV4z1GKjxeUZD-Sj-19" target="OdyiLV4z1GKjxeUZD-Sj-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OdyiLV4z1GKjxeUZD-Sj-19" value="Create account membership Items&amp;nbsp;" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="1">
-          <mxGeometry x="160" y="740" width="120" height="67" as="geometry" />
+          <mxGeometry x="162.5" y="890" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="OdyiLV4z1GKjxeUZD-Sj-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OdyiLV4z1GKjxeUZD-Sj-25" target="OdyiLV4z1GKjxeUZD-Sj-24">
           <mxGeometry relative="1" as="geometry" />
@@ -87,16 +87,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OdyiLV4z1GKjxeUZD-Sj-22" value="Create order (er100) installments based on the period" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="1">
-          <mxGeometry x="160" y="830" width="120" height="67" as="geometry" />
+          <mxGeometry x="160" y="1000" width="125" height="67" as="geometry" />
         </mxCell>
         <mxCell id="OdyiLV4z1GKjxeUZD-Sj-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OdyiLV4z1GKjxeUZD-Sj-24" target="OdyiLV4z1GKjxeUZD-Sj-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OdyiLV4z1GKjxeUZD-Sj-24" value="Create order install ment (er101s) items based on subscription items. Items are tied to the member via an id or account code (shared method ideally for add/edit)" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="1">
-          <mxGeometry x="135" y="1120" width="170" height="105" as="geometry" />
+          <mxGeometry x="137.5" y="1290" width="170" height="105" as="geometry" />
         </mxCell>
         <mxCell id="OdyiLV4z1GKjxeUZD-Sj-25" value="Create order members based account members" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="1">
-          <mxGeometry x="160" y="1020" width="120" height="67" as="geometry" />
+          <mxGeometry x="162.5" y="1190" width="120" height="67" as="geometry" />
         </mxCell>
         <mxCell id="OdyiLV4z1GKjxeUZD-Sj-26" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OdyiLV4z1GKjxeUZD-Sj-29" target="OdyiLV4z1GKjxeUZD-Sj-30">
           <mxGeometry relative="1" as="geometry" />
@@ -130,7 +130,7 @@
           <mxGeometry x="160" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OdyiLV4z1GKjxeUZD-Sj-33" value="Set&lt;br&gt;Administrator records via a computed column using special generic util method. Examples in profiles. Fill in list data and business by a shared util&amp;nbsp; method." style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="1">
-          <mxGeometry x="155" y="1260" width="130" height="140" as="geometry" />
+          <mxGeometry x="157.5" y="1430" width="130" height="140" as="geometry" />
         </mxCell>
         <mxCell id="OdyiLV4z1GKjxeUZD-Sj-34" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OdyiLV4z1GKjxeUZD-Sj-35" target="OdyiLV4z1GKjxeUZD-Sj-36">
           <mxGeometry relative="1" as="geometry" />
@@ -143,17 +143,25 @@
         </mxCell>
         <mxCell id="OdyiLV4z1GKjxeUZD-Sj-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OdyiLV4z1GKjxeUZD-Sj-39" target="OdyiLV4z1GKjxeUZD-Sj-25">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="220" y="1067" as="targetPoint" />
+            <mxPoint x="215" y="1237" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OdyiLV4z1GKjxeUZD-Sj-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OdyiLV4z1GKjxeUZD-Sj-39" target="OdyiLV4z1GKjxeUZD-Sj-40">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="OdyiLV4z1GKjxeUZD-Sj-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.16;entryY=0.55;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="OdyiLV4z1GKjxeUZD-Sj-39" target="OdyiLV4z1GKjxeUZD-Sj-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="355.0000001815538" y="1123.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="OdyiLV4z1GKjxeUZD-Sj-39" value="Create Order Membership to store new information that shouldn&#39;t go on the Installment order." style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="1">
-          <mxGeometry x="160" y="920" width="120" height="67" as="geometry" />
+          <mxGeometry x="160" y="1090" width="125" height="67" as="geometry" />
         </mxCell>
         <mxCell id="OdyiLV4z1GKjxeUZD-Sj-40" value="May be needed. May not. If we need new columns for the order then we need this table. This table is just a relationship table for membership installment orders" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="1">
-          <mxGeometry x="360" y="872.63" width="190" height="161.75" as="geometry" />
+          <mxGeometry x="370" y="1010.0000000000002" width="190" height="161.75" as="geometry" />
+        </mxCell>
+        <mxCell id="OdyiLV4z1GKjxeUZD-Sj-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OdyiLV4z1GKjxeUZD-Sj-46" target="OdyiLV4z1GKjxeUZD-Sj-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OdyiLV4z1GKjxeUZD-Sj-46" value="Create Membership Account Members" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="1">
+          <mxGeometry x="162.5" y="787" width="120" height="67" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
