@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-17T16:08:41.622Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="cyjtpXH-ghdkJt4EVTOh" version="13.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-17T16:29:33.036Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="ZQ5v4NXtmaY6EQypyugh" version="13.4.5" type="github">
   <diagram id="_DveeiFw1rA9gOVqHDl5" name="Page-1">
     <mxGraphModel dx="1422" dy="1862" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -20,6 +20,9 @@
           <mxGeometry x="1130" y="-60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Qa1ZIfGvWoJUYzIrE15H-104" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Qa1ZIfGvWoJUYzIrE15H-52" target="2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Qa1ZIfGvWoJUYzIrE15H-109" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Qa1ZIfGvWoJUYzIrE15H-52" target="Qa1ZIfGvWoJUYzIrE15H-108">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Qa1ZIfGvWoJUYzIrE15H-52" value="Update Related" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
@@ -160,6 +163,12 @@
         </mxCell>
         <mxCell id="2" value="Edit Account Group Membership" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="160" y="510" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Qa1ZIfGvWoJUYzIrE15H-107" value="Potential Tables:&lt;br&gt;&lt;ol&gt;&lt;li&gt;Account Membership Table&lt;br&gt;&lt;/li&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;MEMBERSHIP_ACCOUNT_MEMBERSHIP&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;Account Group Membership Table - Relationship table to above&lt;/li&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;MEMBERSHIP_GROUP_MEMBERSHIP&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;Account Membership Members Table&lt;/li&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;MEMBERSHIP_ACCOUNT_MEMBERS&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;Membership Organization&lt;/li&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;still in question&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;&amp;nbsp;Membership Order&lt;/li&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;MEMBERSHIP_ORDER_MEMBERSHIP&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;Membership Order Members&lt;/li&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;MEMBERSHIP_ORDER_MEMBERS&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="870" y="778.38" width="460" height="251.62" as="geometry" />
+        </mxCell>
+        <mxCell id="Qa1ZIfGvWoJUYzIrE15H-108" value="Delete" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="370" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
