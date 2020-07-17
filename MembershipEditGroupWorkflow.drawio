@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-17T15:40:25.379Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="SuJ2dpHkLSAxeG5Xx7-Q" version="13.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-17T15:46:29.122Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="LuZ7qx0tQq6kOk9gnZlK" version="13.4.5" type="github">
   <diagram id="_DveeiFw1rA9gOVqHDl5" name="Page-1">
     <mxGraphModel dx="1422" dy="1862" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -52,7 +52,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Qa1ZIfGvWoJUYzIrE15H-60" value="Create order installment (er101s) items based on subscription items. Items are tied to the member via an id or account code (shared method ideally for add/edit)" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="1">
-          <mxGeometry x="415" y="790" width="150" height="105" as="geometry" />
+          <mxGeometry x="425" y="795.88" width="150" height="105" as="geometry" />
         </mxCell>
         <mxCell id="Qa1ZIfGvWoJUYzIrE15H-61" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Qa1ZIfGvWoJUYzIrE15H-64" target="Qa1ZIfGvWoJUYzIrE15H-65">
           <mxGeometry relative="1" as="geometry" />
@@ -191,7 +191,7 @@
         <mxCell id="Qa1ZIfGvWoJUYzIrE15H-100" value="If new items are added to an existing membership&amp;nbsp; validation question should be asked if it is desired to add to all the installments.&lt;br&gt;This should be done in the account membership items business class. That way it is handled for the grid here and for adding items via an add items window." style="ellipse;shape=cloud;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="1">
           <mxGeometry x="380" y="550" width="230" height="228.38" as="geometry" />
         </mxCell>
-        <mxCell id="Qa1ZIfGvWoJUYzIrE15H-101" value="Set&lt;br&gt;group records via a computed column using special generic util method. Examples in profiles. Fill in list data and business by a shared util&amp;nbsp; method." style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="1">
+        <mxCell id="Qa1ZIfGvWoJUYzIrE15H-101" value="linked members?" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="1">
           <mxGeometry x="155" y="960" width="130" height="140" as="geometry" />
         </mxCell>
         <mxCell id="Qa1ZIfGvWoJUYzIrE15H-105" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2" target="Qa1ZIfGvWoJUYzIrE15H-58">
