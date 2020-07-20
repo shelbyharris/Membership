@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-20T18:06:40.448Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="oN0jOPgvCh83Xp6xvTK7" version="13.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-20T18:35:58.018Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="kwHGw0CeQtkEs-XdNzbN" version="13.4.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="1931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -191,7 +191,7 @@
           <mxGeometry x="1170" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kGlM9QGFynNTXrBmhsZE-12" value="Potential Tables:&lt;br&gt;&lt;ol&gt;&lt;li&gt;Account Membership Table&lt;br&gt;&lt;/li&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;MEMBERSHIP_ACCOUNT_MEMBERSHIP&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;Account Membership Members Table&lt;/li&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;MEMBERSHIP_ACCOUNT_MEMBER&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;Account Membership Items&lt;/li&gt;&lt;ul&gt;&lt;li&gt;MEMBERSHIP_ACCOUNT_ITEM&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;Membership Order Members&lt;/li&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;MEMBERSHIP_ORDER_MEMBER&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;Organization Level (EV885 replacement)&lt;/li&gt;&lt;ul&gt;&lt;li&gt;???&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;Membership Group&lt;/li&gt;&lt;ul&gt;&lt;li&gt;MEMBERSHIP_GROUP (master table)&lt;/li&gt;&lt;li&gt;MEMBERSHIP_ACCOUNT_GROUP&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;Membership Administrators (for use in public app)&lt;/li&gt;&lt;ul&gt;&lt;li&gt;MEMBERSHIP_ACCOUNT_ADMINISTRATOR&lt;/li&gt;&lt;li&gt;MEMBERSHIP_ADMINISTRATOR (master table)&lt;/li&gt;&lt;/ul&gt;&lt;/ol&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;horizontal=1;verticalAlign=top;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="414" y="800" width="460" height="340" as="geometry" />
+          <mxGeometry x="414" y="800" width="460" height="280" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
