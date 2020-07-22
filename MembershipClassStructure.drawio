@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-22T15:49:08.780Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="lgsCm2KiBO7fIGFW2_Ze" version="13.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-22T16:20:36.074Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="kgiTClTFlR_wX3XxoN-Q" version="13.4.6" type="github">
   <diagram name="Page-1" id="5f0bae14-7c28-e335-631c-24af17079c00">
     <mxGraphModel dx="1422" dy="1612" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -108,15 +108,8 @@
             <mxPoint x="540" y="-180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="D4kZALISSUl1icWql2U2-8" value="Account Members" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="NrKTWO5p2-0dnxn5_g5g-19" target="D4kZALISSUl1icWql2U2-9">
-          <mxGeometry x="-0.2105" relative="1" as="geometry">
-            <mxPoint x="270" y="-370" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="710" y="-60" />
-              <mxPoint x="690" y="-60" />
-              <mxPoint x="690" y="-110" />
-              <mxPoint x="360" y="-110" />
-            </Array>
+        <mxCell id="D4kZALISSUl1icWql2U2-29" value="Account Members" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NrKTWO5p2-0dnxn5_g5g-19" target="D4kZALISSUl1icWql2U2-9">
+          <mxGeometry x="0.5325" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -142,7 +135,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="D4kZALISSUl1icWql2U2-9" value="Create Account Members: MIght only be set in the Individual/group classes, since the number of Account Members created is dependent" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="-460" width="160" height="130" as="geometry" />
+          <mxGeometry x="1190" y="-160" width="160" height="130" as="geometry" />
         </mxCell>
         <mxCell id="D4kZALISSUl1icWql2U2-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="D4kZALISSUl1icWql2U2-10" target="D4kZALISSUl1icWql2U2-13">
           <mxGeometry relative="1" as="geometry">
@@ -150,16 +143,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="D4kZALISSUl1icWql2U2-10" value="MembershipAccountBusiness&lt;br&gt;&lt;br&gt;Will inherit from the AccountBusiness" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="235" y="-630" width="230" height="135" as="geometry" />
+          <mxGeometry x="1385" y="-162.5" width="230" height="135" as="geometry" />
         </mxCell>
         <mxCell id="D4kZALISSUl1icWql2U2-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D4kZALISSUl1icWql2U2-13" target="D4kZALISSUl1icWql2U2-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="D4kZALISSUl1icWql2U2-13" value="UpdateRelated" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="-710" width="120" height="60" as="geometry" />
+          <mxGeometry x="1440" y="-280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="D4kZALISSUl1icWql2U2-14" value="AccountMemberBusiness&lt;br&gt;&lt;br&gt;Creates the Account Members for individual and Group" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="270" y="-830" width="160" height="80" as="geometry" />
+          <mxGeometry x="1180" y="-290" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="D4kZALISSUl1icWql2U2-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D4kZALISSUl1icWql2U2-19" target="D4kZALISSUl1icWql2U2-22">
           <mxGeometry relative="1" as="geometry" />
