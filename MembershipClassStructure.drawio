@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-23T21:36:02.219Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="mx8KcllC0JclzVVmW3ld" version="13.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-23T21:44:30.750Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="9arBsWh6bVnct3EEh1_Z" version="13.4.9" type="github">
   <diagram name="Page-1" id="5f0bae14-7c28-e335-631c-24af17079c00">
     <mxGraphModel dx="2031" dy="3639" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -313,7 +313,7 @@
           <mxGeometry x="925" y="-200" width="225" height="120" as="geometry" />
         </mxCell>
         <mxCell id="p3PnFOhuihg-IEMphHv4-66" value="Take the period and installment to figure out the pricing for each item&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1160" y="-1600" width="120" height="60" as="geometry" />
+          <mxGeometry x="1450" y="-1490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="p3PnFOhuihg-IEMphHv4-72" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p3PnFOhuihg-IEMphHv4-70" target="p3PnFOhuihg-IEMphHv4-71">
           <mxGeometry relative="1" as="geometry" />
@@ -332,8 +332,11 @@
         <mxCell id="p3PnFOhuihg-IEMphHv4-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p3PnFOhuihg-IEMphHv4-71" target="p3PnFOhuihg-IEMphHv4-84">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="p3PnFOhuihg-IEMphHv4-90" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p3PnFOhuihg-IEMphHv4-71" target="p3PnFOhuihg-IEMphHv4-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="p3PnFOhuihg-IEMphHv4-71" value="Class name TBD" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="977.5" y="-1770" width="120" height="60" as="geometry" />
+          <mxGeometry x="1097.5" y="-1770" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="p3PnFOhuihg-IEMphHv4-73" value="Each of these properties will be used to determine the pricing for er101s&lt;br&gt;Properties:&lt;br&gt;MembershipOrderBusinessArgs&lt;br&gt;AccountMembershipItemBusinessArgs&lt;br&gt;AddedAccountMembershipRowKeys" style="whiteSpace=wrap;html=1;rounded=0;align=left;" vertex="1" parent="1">
           <mxGeometry x="850" y="-1286.5600000000002" width="240" height="125.63" as="geometry" />
@@ -341,31 +344,46 @@
         <mxCell id="p3PnFOhuihg-IEMphHv4-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p3PnFOhuihg-IEMphHv4-75" target="p3PnFOhuihg-IEMphHv4-66">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="p3PnFOhuihg-IEMphHv4-75" value="Class NameTBD" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="977.5" y="-1600" width="120" height="60" as="geometry" />
+        <mxCell id="p3PnFOhuihg-IEMphHv4-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p3PnFOhuihg-IEMphHv4-75" target="p3PnFOhuihg-IEMphHv4-88">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="p3PnFOhuihg-IEMphHv4-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p3PnFOhuihg-IEMphHv4-78" target="p3PnFOhuihg-IEMphHv4-80">
+        <mxCell id="p3PnFOhuihg-IEMphHv4-75" value="Class NameTBD" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1097.5" y="-1600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p3PnFOhuihg-IEMphHv4-93" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p3PnFOhuihg-IEMphHv4-78" target="p3PnFOhuihg-IEMphHv4-92">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="p3PnFOhuihg-IEMphHv4-78" value="Is Added Account Membership Item?&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="812.5" y="-1940" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="p3PnFOhuihg-IEMphHv4-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p3PnFOhuihg-IEMphHv4-80" target="p3PnFOhuihg-IEMphHv4-82">
+        <mxCell id="p3PnFOhuihg-IEMphHv4-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p3PnFOhuihg-IEMphHv4-80" target="p3PnFOhuihg-IEMphHv4-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p3PnFOhuihg-IEMphHv4-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="p3PnFOhuihg-IEMphHv4-80" target="p3PnFOhuihg-IEMphHv4-84">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1038" y="-1990" />
-              <mxPoint x="1290" y="-1990" />
-            </Array>
+            <mxPoint x="1485.0399999999995" y="-1980" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="p3PnFOhuihg-IEMphHv4-80" value="Class Name TBD" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="977.5" y="-1930" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="p3PnFOhuihg-IEMphHv4-82" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1230" y="-2140" width="120" height="60" as="geometry" />
+          <mxGeometry x="1097.5" y="-1880" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="p3PnFOhuihg-IEMphHv4-84" value="Figure out paid orders and the overall paid amount. Use that and the period and installment and the amount of existing orders to determine the price of the items. If you have some paid orders and you add an installment then you will have to average the price among the unpaid orders and recalcuate the unpaid orders and the new order you have." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1290" y="-1950" width="120" height="280" as="geometry" />
+          <mxGeometry x="1450" y="-1880" width="120" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="p3PnFOhuihg-IEMphHv4-88" value="Base class" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1097.5" y="-1460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p3PnFOhuihg-IEMphHv4-95" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p3PnFOhuihg-IEMphHv4-92" target="p3PnFOhuihg-IEMphHv4-94">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p3PnFOhuihg-IEMphHv4-98" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="p3PnFOhuihg-IEMphHv4-92" target="p3PnFOhuihg-IEMphHv4-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p3PnFOhuihg-IEMphHv4-92" value="Answered question to add to all installments" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="925" y="-1940" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="p3PnFOhuihg-IEMphHv4-94" value="Do nothing" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="905" y="-2090" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
