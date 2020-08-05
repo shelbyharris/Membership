@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-07-27T13:50:31.958Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="nXLYvs5M0QOjLbuNm-fm" version="13.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-05T16:49:56.126Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="EWlg2iBRDV560qw8U7_M" version="13.5.9" type="github">
   <diagram name="Page-1" id="5f0bae14-7c28-e335-631c-24af17079c00">
-    <mxGraphModel dx="1689" dy="3596" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1924" dy="3569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -39,7 +39,7 @@
             <mxPoint x="930" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="p3PnFOhuihg-IEMphHv4-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NrKTWO5p2-0dnxn5_g5g-9" target="p3PnFOhuihg-IEMphHv4-26">
+        <mxCell id="p3PnFOhuihg-IEMphHv4-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="NrKTWO5p2-0dnxn5_g5g-9" target="p3PnFOhuihg-IEMphHv4-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NrKTWO5p2-0dnxn5_g5g-9" value="Business: Base&lt;br&gt;&lt;br&gt;AccountMembershipBusiness&lt;br&gt;&lt;br&gt;AccountMembershipBusinessArgs" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" parent="1" vertex="1">
@@ -99,7 +99,7 @@
             <mxPoint x="810.0000000000005" y="-310" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="p3PnFOhuihg-IEMphHv4-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NrKTWO5p2-0dnxn5_g5g-19" target="D4kZALISSUl1icWql2U2-9">
+        <mxCell id="p3PnFOhuihg-IEMphHv4-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="NrKTWO5p2-0dnxn5_g5g-19" target="D4kZALISSUl1icWql2U2-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1060" y="-470" as="targetPoint" />
           </mxGeometry>
@@ -124,7 +124,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="p3PnFOhuihg-IEMphHv4-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="D4kZALISSUl1icWql2U2-3" target="p3PnFOhuihg-IEMphHv4-40">
+        <mxCell id="p3PnFOhuihg-IEMphHv4-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="D4kZALISSUl1icWql2U2-3" target="p3PnFOhuihg-IEMphHv4-40" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="D4kZALISSUl1icWql2U2-3" value="The AccountMemberItems will be set as added rows when the Membership Type and Period is selected, and then used to create the ER101 rows&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -172,7 +172,7 @@
         <mxCell id="D4kZALISSUl1icWql2U2-28" value="Assign to selected &quot;Collection&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1037.5" y="460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="p3PnFOhuihg-IEMphHv4-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D4kZALISSUl1icWql2U2-32" target="p3PnFOhuihg-IEMphHv4-54">
+        <mxCell id="p3PnFOhuihg-IEMphHv4-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="D4kZALISSUl1icWql2U2-32" target="p3PnFOhuihg-IEMphHv4-54" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="D4kZALISSUl1icWql2U2-32" value="MembershipOrderBusinessArgs needs a reference to AccountMemberItems.&amp;nbsp;&lt;br&gt;&lt;br&gt;This will be used to create all of the ER101 rows.&lt;br&gt;&lt;br&gt;Example: AccountMemberItem will contain the priceList and quantity of selected items. You will use that information to retrieve the necessary items. MembershipOrderBusiness will then split items based off of the Installment information, to create the Orders(ER100)" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
@@ -187,73 +187,73 @@
         <mxCell id="D4kZALISSUl1icWql2U2-36" value="Validate" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="715" y="-590" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="p3PnFOhuihg-IEMphHv4-2" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Level of effort for&amp;nbsp; Business workflows (continued in excel file on teams)&lt;/b&gt;&lt;br&gt;&lt;br&gt;Account Membership Business.&lt;br&gt;Standard creation of business class 1 day&lt;br&gt;&amp;nbsp;Process - minimal&lt;br&gt;&amp;nbsp;Validation -&amp;nbsp;.5 days&lt;br&gt;UpdateRelated - 7 days&lt;br&gt;&lt;br&gt;Total Days: 8.25&lt;br&gt;&lt;br&gt;Individual Membership Business:&lt;br&gt;Standard creation of business class 1 day&lt;br&gt;Inherits account membership business&lt;br&gt;Validation - minimal&lt;br&gt;Process- minimal&amp;nbsp;&lt;br&gt;UpdateRelated - .5&amp;nbsp;&lt;br&gt;&lt;br&gt;Total Days : 1.5&lt;br&gt;&lt;br&gt;Group Membership Business&lt;br&gt;Standard creation of business class 1 day&lt;br&gt;Inherits account membership business&lt;br&gt;Validation - minimal&lt;br&gt;Process- minimal&amp;nbsp;&lt;br&gt;UpdateRelated - minimal&lt;br&gt;&lt;br&gt;Total Days: 1&lt;br&gt;&lt;br&gt;Group membership Util:&lt;br&gt;&lt;br&gt;Total days 1.&amp;nbsp;&lt;br&gt;&lt;br&gt;Individual Membership Util&lt;br&gt;&lt;br&gt;Total days 1.&lt;br&gt;&lt;br&gt;AccountMembershipUtil&lt;br&gt;Setsaveresultvalidation messages - Days: .5&lt;br&gt;&lt;br&gt;Total days&amp;nbsp; 1.5&lt;br&gt;&lt;br&gt;&lt;br&gt;Membership Account Business&amp;nbsp;&lt;br&gt;&lt;br&gt;Total Days: 1.5&lt;br&gt;&lt;br&gt;Membership Account Util&lt;br&gt;&lt;br&gt;Total Days: 1 day&lt;br&gt;&lt;br&gt;AccountMemberBusiness&lt;br&gt;&lt;br&gt;Standard creation of business class 1 day&lt;br&gt;&lt;br&gt;Total Days: 1&lt;br&gt;&lt;br&gt;AccountMemberUtil&lt;br&gt;&lt;br&gt;Total Days: 1&lt;br&gt;&lt;br&gt;AccountMemberItemBusiness&lt;br&gt;Standard creation of business class 1 day&lt;br&gt;Validate .5&lt;br&gt;&lt;br&gt;Total days&amp;nbsp; 1.5&lt;br&gt;&lt;br&gt;Account Member Item Util&lt;br&gt;&lt;br&gt;Total Days: 1&lt;br&gt;&lt;br&gt;InstallmentOptionSupport&lt;br&gt;&lt;br&gt;2 days&lt;br&gt;&lt;br&gt;Added Account membership 4 days&lt;br&gt;Added Installment order&amp;nbsp;&lt;br&gt;Added installment item Combined 8 days&lt;br&gt;&lt;br&gt;Total Days 14&lt;br&gt;&lt;br&gt;Membership Order Business&lt;br&gt;Standard creation of business class 1 day&lt;br&gt;&lt;br&gt;Setup of various override methods 2 days.&lt;br&gt;&lt;br&gt;Update related 1 day&lt;br&gt;&lt;br&gt;Total days 4.&lt;br&gt;&lt;br&gt;MembershipOrderUtil&lt;br&gt;&lt;br&gt;Total Days: 1 day&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="p3PnFOhuihg-IEMphHv4-2" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Level of effort for&amp;nbsp; Business workflows (continued in excel file on teams)&lt;/b&gt;&lt;br&gt;&lt;br&gt;Account Membership Business.&lt;br&gt;Standard creation of business class 1 day&lt;br&gt;&amp;nbsp;Process - minimal&lt;br&gt;&amp;nbsp;Validation -&amp;nbsp;.5 days&lt;br&gt;UpdateRelated - 7 days&lt;br&gt;&lt;br&gt;Total Days: 8.25&lt;br&gt;&lt;br&gt;Individual Membership Business:&lt;br&gt;Standard creation of business class 1 day&lt;br&gt;Inherits account membership business&lt;br&gt;Validation - minimal&lt;br&gt;Process- minimal&amp;nbsp;&lt;br&gt;UpdateRelated - .5&amp;nbsp;&lt;br&gt;&lt;br&gt;Total Days : 1.5&lt;br&gt;&lt;br&gt;Group Membership Business&lt;br&gt;Standard creation of business class 1 day&lt;br&gt;Inherits account membership business&lt;br&gt;Validation - minimal&lt;br&gt;Process- minimal&amp;nbsp;&lt;br&gt;UpdateRelated - minimal&lt;br&gt;&lt;br&gt;Total Days: 1&lt;br&gt;&lt;br&gt;Group membership Util:&lt;br&gt;&lt;br&gt;Total days 1.&amp;nbsp;&lt;br&gt;&lt;br&gt;Individual Membership Util&lt;br&gt;&lt;br&gt;Total days 1.&lt;br&gt;&lt;br&gt;AccountMembershipUtil&lt;br&gt;Setsaveresultvalidation messages - Days: .5&lt;br&gt;&lt;br&gt;Total days&amp;nbsp; 1.5&lt;br&gt;&lt;br&gt;&lt;br&gt;Membership Account Business&amp;nbsp;&lt;br&gt;&lt;br&gt;Total Days: 1.5&lt;br&gt;&lt;br&gt;Membership Account Util&lt;br&gt;&lt;br&gt;Total Days: 1 day&lt;br&gt;&lt;br&gt;AccountMemberBusiness&lt;br&gt;&lt;br&gt;Standard creation of business class 1 day&lt;br&gt;&lt;br&gt;Total Days: 1&lt;br&gt;&lt;br&gt;AccountMemberUtil&lt;br&gt;&lt;br&gt;Total Days: 1&lt;br&gt;&lt;br&gt;AccountMemberItemBusiness&lt;br&gt;Standard creation of business class 1 day&lt;br&gt;Validate .5&lt;br&gt;&lt;br&gt;Total days&amp;nbsp; 1.5&lt;br&gt;&lt;br&gt;Account Member Item Util&lt;br&gt;&lt;br&gt;Total Days: 1&lt;br&gt;&lt;br&gt;InstallmentOptionSupport&lt;br&gt;&lt;br&gt;2 days&lt;br&gt;&lt;br&gt;Added Account membership 4 days&lt;br&gt;Added Installment order&amp;nbsp;&lt;br&gt;Added installment item Combined 8 days&lt;br&gt;&lt;br&gt;Total Days 14&lt;br&gt;&lt;br&gt;Membership Order Business&lt;br&gt;Standard creation of business class 1 day&lt;br&gt;&lt;br&gt;Setup of various override methods 2 days.&lt;br&gt;&lt;br&gt;Update related 1 day&lt;br&gt;&lt;br&gt;Total days 4.&lt;br&gt;&lt;br&gt;MembershipOrderUtil&lt;br&gt;&lt;br&gt;Total Days: 1 day&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;horizontal=1;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="1690" y="-630" width="440" height="1540" as="geometry" />
         </mxCell>
-        <mxCell id="p3PnFOhuihg-IEMphHv4-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p3PnFOhuihg-IEMphHv4-9" target="p3PnFOhuihg-IEMphHv4-14">
+        <mxCell id="p3PnFOhuihg-IEMphHv4-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="p3PnFOhuihg-IEMphHv4-9" target="p3PnFOhuihg-IEMphHv4-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="p3PnFOhuihg-IEMphHv4-9" value="Process" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="p3PnFOhuihg-IEMphHv4-9" value="Process" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="715" y="-710" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="p3PnFOhuihg-IEMphHv4-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="p3PnFOhuihg-IEMphHv4-14" target="D4kZALISSUl1icWql2U2-32">
+        <mxCell id="p3PnFOhuihg-IEMphHv4-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="p3PnFOhuihg-IEMphHv4-14" target="D4kZALISSUl1icWql2U2-32" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="775" y="-897" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="p3PnFOhuihg-IEMphHv4-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="p3PnFOhuihg-IEMphHv4-14" target="D4kZALISSUl1icWql2U2-34">
+        <mxCell id="p3PnFOhuihg-IEMphHv4-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="p3PnFOhuihg-IEMphHv4-14" target="D4kZALISSUl1icWql2U2-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="p3PnFOhuihg-IEMphHv4-14" value="UpdateRelated" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="p3PnFOhuihg-IEMphHv4-14" value="UpdateRelated" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="715" y="-800" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="p3PnFOhuihg-IEMphHv4-22" value="AccountMemberItems" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="NrKTWO5p2-0dnxn5_g5g-19" target="D4kZALISSUl1icWql2U2-3">
+        <mxCell id="p3PnFOhuihg-IEMphHv4-22" value="AccountMemberItems" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="NrKTWO5p2-0dnxn5_g5g-19" target="D4kZALISSUl1icWql2U2-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="545.0000000000005" y="-390" as="targetPoint" />
             <mxPoint x="740" y="-310" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="p3PnFOhuihg-IEMphHv4-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p3PnFOhuihg-IEMphHv4-26" target="p3PnFOhuihg-IEMphHv4-28">
+        <mxCell id="p3PnFOhuihg-IEMphHv4-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="p3PnFOhuihg-IEMphHv4-26" target="p3PnFOhuihg-IEMphHv4-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="p3PnFOhuihg-IEMphHv4-26" value="Validate" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="p3PnFOhuihg-IEMphHv4-26" value="Validate" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="715" y="-60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="p3PnFOhuihg-IEMphHv4-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p3PnFOhuihg-IEMphHv4-28" target="NrKTWO5p2-0dnxn5_g5g-19">
+        <mxCell id="p3PnFOhuihg-IEMphHv4-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="p3PnFOhuihg-IEMphHv4-28" target="NrKTWO5p2-0dnxn5_g5g-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="p3PnFOhuihg-IEMphHv4-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p3PnFOhuihg-IEMphHv4-28" target="p3PnFOhuihg-IEMphHv4-64">
+        <mxCell id="p3PnFOhuihg-IEMphHv4-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="p3PnFOhuihg-IEMphHv4-28" target="p3PnFOhuihg-IEMphHv4-64" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="p3PnFOhuihg-IEMphHv4-28" value="Process" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="p3PnFOhuihg-IEMphHv4-28" value="Process" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="715" y="-170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="p3PnFOhuihg-IEMphHv4-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p3PnFOhuihg-IEMphHv4-40" target="p3PnFOhuihg-IEMphHv4-41">
+        <mxCell id="p3PnFOhuihg-IEMphHv4-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="p3PnFOhuihg-IEMphHv4-40" target="p3PnFOhuihg-IEMphHv4-41" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="p3PnFOhuihg-IEMphHv4-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="p3PnFOhuihg-IEMphHv4-40" target="p3PnFOhuihg-IEMphHv4-46">
+        <mxCell id="p3PnFOhuihg-IEMphHv4-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="p3PnFOhuihg-IEMphHv4-40" target="p3PnFOhuihg-IEMphHv4-46" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="280" y="-585" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="p3PnFOhuihg-IEMphHv4-40" value="Validate" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="p3PnFOhuihg-IEMphHv4-40" value="Validate" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="60" y="-630" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="p3PnFOhuihg-IEMphHv4-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p3PnFOhuihg-IEMphHv4-41" target="p3PnFOhuihg-IEMphHv4-48">
+        <mxCell id="p3PnFOhuihg-IEMphHv4-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="p3PnFOhuihg-IEMphHv4-41" target="p3PnFOhuihg-IEMphHv4-48" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="p3PnFOhuihg-IEMphHv4-41" value="Process" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="p3PnFOhuihg-IEMphHv4-41" value="Process" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="60" y="-740" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="p3PnFOhuihg-IEMphHv4-42" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="p3PnFOhuihg-IEMphHv4-44" source="p3PnFOhuihg-IEMphHv4-46">
+        <mxCell id="p3PnFOhuihg-IEMphHv4-42" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="p3PnFOhuihg-IEMphHv4-46" target="p3PnFOhuihg-IEMphHv4-44" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="440" y="-600" as="targetPoint" />
             <mxPoint x="385" y="-585" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="p3PnFOhuihg-IEMphHv4-43" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" target="p3PnFOhuihg-IEMphHv4-41" source="p3PnFOhuihg-IEMphHv4-46">
+        <mxCell id="p3PnFOhuihg-IEMphHv4-43" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="p3PnFOhuihg-IEMphHv4-46" target="p3PnFOhuihg-IEMphHv4-41" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="320" y="-720" as="targetPoint" />
             <mxPoint x="320" y="-634.5238095238096" as="sourcePoint" />
@@ -263,62 +263,62 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="p3PnFOhuihg-IEMphHv4-44" value="Ask question for adding item to unpaid installents if yes then pass anwer to membership order business to create er101s for each installment" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="p3PnFOhuihg-IEMphHv4-44" value="Ask question for adding item to unpaid installents if yes then pass anwer to membership order business to create er101s for each installment" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="430" y="-780" width="120" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="p3PnFOhuihg-IEMphHv4-46" value="Is existing Account membershiup adding Account member items?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="p3PnFOhuihg-IEMphHv4-46" value="Is existing Account membershiup adding Account member items?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="267.5" y="-665" width="105" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="p3PnFOhuihg-IEMphHv4-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.393;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="p3PnFOhuihg-IEMphHv4-48" target="p3PnFOhuihg-IEMphHv4-54">
+        <mxCell id="p3PnFOhuihg-IEMphHv4-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.393;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="p3PnFOhuihg-IEMphHv4-48" target="p3PnFOhuihg-IEMphHv4-54" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="120" y="-1130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="p3PnFOhuihg-IEMphHv4-48" value="UpdateRelated" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="p3PnFOhuihg-IEMphHv4-48" value="UpdateRelated" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="60" y="-870" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="p3PnFOhuihg-IEMphHv4-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p3PnFOhuihg-IEMphHv4-54" target="p3PnFOhuihg-IEMphHv4-56">
+        <mxCell id="p3PnFOhuihg-IEMphHv4-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="p3PnFOhuihg-IEMphHv4-54" target="p3PnFOhuihg-IEMphHv4-56" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="p3PnFOhuihg-IEMphHv4-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p3PnFOhuihg-IEMphHv4-54" target="p3PnFOhuihg-IEMphHv4-73">
+        <mxCell id="p3PnFOhuihg-IEMphHv4-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="p3PnFOhuihg-IEMphHv4-54" target="p3PnFOhuihg-IEMphHv4-73" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="p3PnFOhuihg-IEMphHv4-54" value="InstallmentMembershipSupport" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="p3PnFOhuihg-IEMphHv4-54" value="InstallmentMembershipSupport" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="450" y="-1300" width="330" height="152.5" as="geometry" />
         </mxCell>
-        <mxCell id="p3PnFOhuihg-IEMphHv4-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p3PnFOhuihg-IEMphHv4-56" target="p3PnFOhuihg-IEMphHv4-58">
+        <mxCell id="p3PnFOhuihg-IEMphHv4-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="p3PnFOhuihg-IEMphHv4-56" target="p3PnFOhuihg-IEMphHv4-58" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="p3PnFOhuihg-IEMphHv4-56" value="Validate data is correct for class" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="p3PnFOhuihg-IEMphHv4-56" value="Validate data is correct for class" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="550" y="-1690" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="p3PnFOhuihg-IEMphHv4-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p3PnFOhuihg-IEMphHv4-58" target="p3PnFOhuihg-IEMphHv4-62">
+        <mxCell id="p3PnFOhuihg-IEMphHv4-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="p3PnFOhuihg-IEMphHv4-58" target="p3PnFOhuihg-IEMphHv4-62" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="p3PnFOhuihg-IEMphHv4-58" value="Process&lt;br&gt;(Determine needed support class)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="p3PnFOhuihg-IEMphHv4-58" value="Process&lt;br&gt;(Determine needed support class)" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="550" y="-1790" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="p3PnFOhuihg-IEMphHv4-69" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p3PnFOhuihg-IEMphHv4-62" target="p3PnFOhuihg-IEMphHv4-70">
+        <mxCell id="p3PnFOhuihg-IEMphHv4-69" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="p3PnFOhuihg-IEMphHv4-62" target="p3PnFOhuihg-IEMphHv4-70" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="847.5" y="-1930" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="p3PnFOhuihg-IEMphHv4-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p3PnFOhuihg-IEMphHv4-62" target="p3PnFOhuihg-IEMphHv4-75">
+        <mxCell id="p3PnFOhuihg-IEMphHv4-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="p3PnFOhuihg-IEMphHv4-62" target="p3PnFOhuihg-IEMphHv4-75" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="p3PnFOhuihg-IEMphHv4-62" value="Is added account membership?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="p3PnFOhuihg-IEMphHv4-62" value="Is added account membership?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="775" y="-1820" width="145" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="p3PnFOhuihg-IEMphHv4-64" value="Keep list of what the added row keys are that exist. We already do this with AddedRowKeys but need to manage it to be set and to set the existing key in process added row keys" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="p3PnFOhuihg-IEMphHv4-64" value="Keep list of what the added row keys are that exist. We already do this with AddedRowKeys but need to manage it to be set and to set the existing key in process added row keys" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="925" y="-200" width="225" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="p3PnFOhuihg-IEMphHv4-66" value="Take the period and installment to figure out the pricing for each item&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="p3PnFOhuihg-IEMphHv4-66" value="Take the period and installment to figure out the pricing for each item&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1445" y="-1670" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="p3PnFOhuihg-IEMphHv4-72" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p3PnFOhuihg-IEMphHv4-70" target="p3PnFOhuihg-IEMphHv4-71">
+        <mxCell id="p3PnFOhuihg-IEMphHv4-72" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="p3PnFOhuihg-IEMphHv4-70" target="p3PnFOhuihg-IEMphHv4-71" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="p3PnFOhuihg-IEMphHv4-79" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p3PnFOhuihg-IEMphHv4-70" target="p3PnFOhuihg-IEMphHv4-78">
+        <mxCell id="p3PnFOhuihg-IEMphHv4-79" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="p3PnFOhuihg-IEMphHv4-70" target="p3PnFOhuihg-IEMphHv4-78" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="848" y="-2010" />
@@ -326,111 +326,121 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="p3PnFOhuihg-IEMphHv4-70" value="Is Added Order?&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="p3PnFOhuihg-IEMphHv4-70" value="Is Added Order?&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="807.5" y="-1970" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="p3PnFOhuihg-IEMphHv4-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p3PnFOhuihg-IEMphHv4-71" target="p3PnFOhuihg-IEMphHv4-84">
+        <mxCell id="p3PnFOhuihg-IEMphHv4-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="p3PnFOhuihg-IEMphHv4-71" target="p3PnFOhuihg-IEMphHv4-84" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="p3PnFOhuihg-IEMphHv4-90" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p3PnFOhuihg-IEMphHv4-71" target="p3PnFOhuihg-IEMphHv4-75">
+        <mxCell id="p3PnFOhuihg-IEMphHv4-90" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="p3PnFOhuihg-IEMphHv4-71" target="p3PnFOhuihg-IEMphHv4-75" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="p3PnFOhuihg-IEMphHv4-71" value="InstallmentAddedOrderMembershipService" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1021.25" y="-1960" width="262.5" height="60" as="geometry" />
+        <mxCell id="p3PnFOhuihg-IEMphHv4-71" value="InstallmentAddedOrderMembershipService" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1018.75" y="-1960" width="262.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="p3PnFOhuihg-IEMphHv4-73" value="Each of these properties will be used to determine the pricing for er101s&lt;br&gt;Properties:&lt;br&gt;MembershipOrderBusinessArgs&lt;br&gt;AccountMembershipItemBusinessArgs&lt;br&gt;AddedAccountMembershipRowKeys" style="whiteSpace=wrap;html=1;rounded=0;align=left;" vertex="1" parent="1">
+        <mxCell id="p3PnFOhuihg-IEMphHv4-73" value="Each of these properties will be used to determine the pricing for er101s&lt;br&gt;Properties:&lt;br&gt;MembershipOrderBusinessArgs&lt;br&gt;AccountMembershipItemBusinessArgs&lt;br&gt;AddedAccountMembershipRowKeys" style="whiteSpace=wrap;html=1;rounded=0;align=left;" parent="1" vertex="1">
           <mxGeometry x="850" y="-1286.5600000000002" width="240" height="125.63" as="geometry" />
         </mxCell>
-        <mxCell id="p3PnFOhuihg-IEMphHv4-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p3PnFOhuihg-IEMphHv4-75" target="p3PnFOhuihg-IEMphHv4-66">
+        <mxCell id="p3PnFOhuihg-IEMphHv4-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="p3PnFOhuihg-IEMphHv4-75" target="p3PnFOhuihg-IEMphHv4-66" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="p3PnFOhuihg-IEMphHv4-102" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p3PnFOhuihg-IEMphHv4-75">
+        <mxCell id="p3PnFOhuihg-IEMphHv4-102" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="p3PnFOhuihg-IEMphHv4-75" edge="1" target="p3PnFOhuihg-IEMphHv4-88">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1152.5714285714284" y="-1650.0000000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="p3PnFOhuihg-IEMphHv4-75" value="InstallmentAddedAccountMembershipService" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1016.25" y="-1790" width="272.5" height="60" as="geometry" />
+        <mxCell id="p3PnFOhuihg-IEMphHv4-75" value="InstallmentAddedAccountMembershipService" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1013.25" y="-1790" width="272.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="p3PnFOhuihg-IEMphHv4-93" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p3PnFOhuihg-IEMphHv4-78" target="p3PnFOhuihg-IEMphHv4-92">
+        <mxCell id="p3PnFOhuihg-IEMphHv4-93" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="p3PnFOhuihg-IEMphHv4-78" target="p3PnFOhuihg-IEMphHv4-92" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="p3PnFOhuihg-IEMphHv4-78" value="Is Added Account Membership Item?&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JGxCgBMuG6ZqY1aO4r4T-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="p3PnFOhuihg-IEMphHv4-78" target="p3PnFOhuihg-IEMphHv4-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JGxCgBMuG6ZqY1aO4r4T-3" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JGxCgBMuG6ZqY1aO4r4T-2">
+          <mxGeometry x="-0.3814" y="-2" relative="1" as="geometry">
+            <mxPoint x="24.32" y="-1.94" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p3PnFOhuihg-IEMphHv4-78" value="Is Added Account Membership Item?&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="807.5" y="-2130" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="p3PnFOhuihg-IEMphHv4-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p3PnFOhuihg-IEMphHv4-80" target="p3PnFOhuihg-IEMphHv4-71">
+        <mxCell id="p3PnFOhuihg-IEMphHv4-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="p3PnFOhuihg-IEMphHv4-80" target="p3PnFOhuihg-IEMphHv4-71" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="p3PnFOhuihg-IEMphHv4-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="p3PnFOhuihg-IEMphHv4-80" target="p3PnFOhuihg-IEMphHv4-84">
+        <mxCell id="p3PnFOhuihg-IEMphHv4-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="p3PnFOhuihg-IEMphHv4-80" target="p3PnFOhuihg-IEMphHv4-84" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1480.0399999999995" y="-2170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="p3PnFOhuihg-IEMphHv4-80" value="InstallmentAddedAccountItemMembershipService" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1010.6300000000001" y="-2070" width="283.75" height="60" as="geometry" />
+        <mxCell id="p3PnFOhuihg-IEMphHv4-80" value="InstallmentAddedAccountItemMembershipService" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1008.1300000000001" y="-2070" width="283.75" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="p3PnFOhuihg-IEMphHv4-84" value="Figure out paid orders and the overall paid amount. Use that and the period and installment and the amount of existing orders to determine the price of the items. If you have some paid orders and you add an installment then you will have to average the price among the unpaid orders and recalcuate the unpaid orders and the new order you have." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="p3PnFOhuihg-IEMphHv4-84" value="Figure out paid orders and the overall paid amount. Use that and the period and installment and the amount of existing orders to determine the price of the items. If you have some paid orders and you add an installment then you will have to average the price among the unpaid orders and recalcuate the unpaid orders and the new order you have." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1445" y="-2070" width="120" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="p3PnFOhuihg-IEMphHv4-88" value="Base class&lt;br&gt;InstallmentMembershipService" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1056.25" y="-1440" width="192.5" height="60" as="geometry" />
+        <mxCell id="p3PnFOhuihg-IEMphHv4-88" value="Base class&lt;br&gt;InstallmentMembershipService" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1054.25" y="-1550" width="192.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="p3PnFOhuihg-IEMphHv4-98" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="p3PnFOhuihg-IEMphHv4-92" target="p3PnFOhuihg-IEMphHv4-80">
+        <mxCell id="p3PnFOhuihg-IEMphHv4-98" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="p3PnFOhuihg-IEMphHv4-92" target="p3PnFOhuihg-IEMphHv4-80" edge="1">
+          <mxGeometry x="-0.42" y="20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p3PnFOhuihg-IEMphHv4-108" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="p3PnFOhuihg-IEMphHv4-92" target="p3PnFOhuihg-IEMphHv4-107" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="p3PnFOhuihg-IEMphHv4-108" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p3PnFOhuihg-IEMphHv4-92" target="p3PnFOhuihg-IEMphHv4-107">
+        <mxCell id="p3PnFOhuihg-IEMphHv4-92" value="Answered question to add to all installments" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="807.5" y="-2270" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="p3PnFOhuihg-IEMphHv4-110" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="p3PnFOhuihg-IEMphHv4-107" target="p3PnFOhuihg-IEMphHv4-109" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="p3PnFOhuihg-IEMphHv4-92" value="Answered question to add to all installments" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="807.5" y="-2300" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="p3PnFOhuihg-IEMphHv4-110" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p3PnFOhuihg-IEMphHv4-107" target="p3PnFOhuihg-IEMphHv4-109">
+        <mxCell id="p3PnFOhuihg-IEMphHv4-112" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="p3PnFOhuihg-IEMphHv4-107" target="p3PnFOhuihg-IEMphHv4-111" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="p3PnFOhuihg-IEMphHv4-112" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p3PnFOhuihg-IEMphHv4-107" target="p3PnFOhuihg-IEMphHv4-111">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="p3PnFOhuihg-IEMphHv4-117" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="p3PnFOhuihg-IEMphHv4-112">
+        <mxCell id="p3PnFOhuihg-IEMphHv4-117" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="p3PnFOhuihg-IEMphHv4-112" vertex="1" connectable="0">
           <mxGeometry x="-0.2317" relative="1" as="geometry">
             <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="p3PnFOhuihg-IEMphHv4-107" value="Deleted Installments" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="p3PnFOhuihg-IEMphHv4-107" value="Deleted Installments" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="807.5" y="-2410" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="p3PnFOhuihg-IEMphHv4-114" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p3PnFOhuihg-IEMphHv4-109" target="p3PnFOhuihg-IEMphHv4-113">
+        <mxCell id="p3PnFOhuihg-IEMphHv4-114" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="p3PnFOhuihg-IEMphHv4-109" target="p3PnFOhuihg-IEMphHv4-113" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="p3PnFOhuihg-IEMphHv4-118" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="p3PnFOhuihg-IEMphHv4-114">
+        <mxCell id="p3PnFOhuihg-IEMphHv4-118" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="p3PnFOhuihg-IEMphHv4-114" vertex="1" connectable="0">
           <mxGeometry x="-0.2741" y="-1" relative="1" as="geometry">
             <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="p3PnFOhuihg-IEMphHv4-109" value="Deleted Installment Items" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="p3PnFOhuihg-IEMphHv4-109" value="Deleted Installment Items" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="807.5" y="-2530" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="p3PnFOhuihg-IEMphHv4-115" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p3PnFOhuihg-IEMphHv4-111">
+        <mxCell id="p3PnFOhuihg-IEMphHv4-115" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="p3PnFOhuihg-IEMphHv4-111" edge="1" target="p3PnFOhuihg-IEMphHv4-80">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1150" y="-2260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="p3PnFOhuihg-IEMphHv4-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p3PnFOhuihg-IEMphHv4-111">
+        <mxCell id="p3PnFOhuihg-IEMphHv4-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="p3PnFOhuihg-IEMphHv4-111" edge="1" target="p3PnFOhuihg-IEMphHv4-84">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1510" y="-2080" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="p3PnFOhuihg-IEMphHv4-111" value="&lt;span&gt;InstallmentDeletedOrderMembershipService&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="p3PnFOhuihg-IEMphHv4-111" value="&lt;span&gt;InstallmentDeletedOrderMembershipService&lt;/span&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="985" y="-2370" width="330" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="p3PnFOhuihg-IEMphHv4-116" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p3PnFOhuihg-IEMphHv4-113" target="p3PnFOhuihg-IEMphHv4-111">
+        <mxCell id="p3PnFOhuihg-IEMphHv4-116" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="p3PnFOhuihg-IEMphHv4-113" target="p3PnFOhuihg-IEMphHv4-111" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="p3PnFOhuihg-IEMphHv4-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p3PnFOhuihg-IEMphHv4-113">
+        <mxCell id="p3PnFOhuihg-IEMphHv4-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="p3PnFOhuihg-IEMphHv4-113" edge="1" target="p3PnFOhuihg-IEMphHv4-84">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1510" y="-2330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="p3PnFOhuihg-IEMphHv4-113" value="&lt;span&gt;InstallmentDeletedAccountItemMembershipService&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="p3PnFOhuihg-IEMphHv4-113" value="&lt;span&gt;InstallmentDeletedAccountItemMembershipService&lt;/span&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="990" y="-2500" width="320" height="60" as="geometry" />
         </mxCell>
       </root>
