@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-08-05T16:49:56.126Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="EWlg2iBRDV560qw8U7_M" version="13.5.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-03T16:32:23.454Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="3mqrcbjm_0ut9rCJX22p" version="13.6.6" type="github">
   <diagram name="Page-1" id="5f0bae14-7c28-e335-631c-24af17079c00">
-    <mxGraphModel dx="1924" dy="3569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="3312" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -283,7 +283,7 @@
         <mxCell id="p3PnFOhuihg-IEMphHv4-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="p3PnFOhuihg-IEMphHv4-54" target="p3PnFOhuihg-IEMphHv4-73" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="p3PnFOhuihg-IEMphHv4-54" value="InstallmentMembershipSupport" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="p3PnFOhuihg-IEMphHv4-54" value="InstallmentMembershipFactory" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="450" y="-1300" width="330" height="152.5" as="geometry" />
         </mxCell>
         <mxCell id="p3PnFOhuihg-IEMphHv4-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="p3PnFOhuihg-IEMphHv4-56" target="p3PnFOhuihg-IEMphHv4-58" edge="1">
@@ -335,7 +335,7 @@
         <mxCell id="p3PnFOhuihg-IEMphHv4-90" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="p3PnFOhuihg-IEMphHv4-71" target="p3PnFOhuihg-IEMphHv4-75" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="p3PnFOhuihg-IEMphHv4-71" value="InstallmentAddedOrderMembershipService" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="p3PnFOhuihg-IEMphHv4-71" value="InstallmentAddedOrderMembership" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1018.75" y="-1960" width="262.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="p3PnFOhuihg-IEMphHv4-73" value="Each of these properties will be used to determine the pricing for er101s&lt;br&gt;Properties:&lt;br&gt;MembershipOrderBusinessArgs&lt;br&gt;AccountMembershipItemBusinessArgs&lt;br&gt;AddedAccountMembershipRowKeys" style="whiteSpace=wrap;html=1;rounded=0;align=left;" parent="1" vertex="1">
@@ -344,21 +344,21 @@
         <mxCell id="p3PnFOhuihg-IEMphHv4-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="p3PnFOhuihg-IEMphHv4-75" target="p3PnFOhuihg-IEMphHv4-66" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="p3PnFOhuihg-IEMphHv4-102" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="p3PnFOhuihg-IEMphHv4-75" edge="1" target="p3PnFOhuihg-IEMphHv4-88">
+        <mxCell id="p3PnFOhuihg-IEMphHv4-102" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="p3PnFOhuihg-IEMphHv4-75" target="p3PnFOhuihg-IEMphHv4-88" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1152.5714285714284" y="-1650.0000000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="p3PnFOhuihg-IEMphHv4-75" value="InstallmentAddedAccountMembershipService" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="p3PnFOhuihg-IEMphHv4-75" value="InstallmentAddedAccountMembership" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1013.25" y="-1790" width="272.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="p3PnFOhuihg-IEMphHv4-93" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="p3PnFOhuihg-IEMphHv4-78" target="p3PnFOhuihg-IEMphHv4-92" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JGxCgBMuG6ZqY1aO4r4T-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="p3PnFOhuihg-IEMphHv4-78" target="p3PnFOhuihg-IEMphHv4-80">
+        <mxCell id="JGxCgBMuG6ZqY1aO4r4T-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="p3PnFOhuihg-IEMphHv4-78" target="p3PnFOhuihg-IEMphHv4-80" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JGxCgBMuG6ZqY1aO4r4T-3" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JGxCgBMuG6ZqY1aO4r4T-2">
+        <mxCell id="JGxCgBMuG6ZqY1aO4r4T-3" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="JGxCgBMuG6ZqY1aO4r4T-2" vertex="1" connectable="0">
           <mxGeometry x="-0.3814" y="-2" relative="1" as="geometry">
             <mxPoint x="24.32" y="-1.94" as="offset" />
           </mxGeometry>
@@ -374,13 +374,16 @@
             <mxPoint x="1480.0399999999995" y="-2170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="p3PnFOhuihg-IEMphHv4-80" value="InstallmentAddedAccountItemMembershipService" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="p3PnFOhuihg-IEMphHv4-80" value="InstallmentAddedAccountItemMembership" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1008.1300000000001" y="-2070" width="283.75" height="60" as="geometry" />
         </mxCell>
         <mxCell id="p3PnFOhuihg-IEMphHv4-84" value="Figure out paid orders and the overall paid amount. Use that and the period and installment and the amount of existing orders to determine the price of the items. If you have some paid orders and you add an installment then you will have to average the price among the unpaid orders and recalcuate the unpaid orders and the new order you have." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1445" y="-2070" width="120" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="p3PnFOhuihg-IEMphHv4-88" value="Base class&lt;br&gt;InstallmentMembershipService" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="V-WP_IPiOYYayAlFAOkF-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p3PnFOhuihg-IEMphHv4-88" target="V-WP_IPiOYYayAlFAOkF-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p3PnFOhuihg-IEMphHv4-88" value="(Base class)&lt;br&gt;InstallmentMembership" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1054.25" y="-1550" width="192.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="p3PnFOhuihg-IEMphHv4-98" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="p3PnFOhuihg-IEMphHv4-92" target="p3PnFOhuihg-IEMphHv4-80" edge="1">
@@ -419,29 +422,32 @@
         <mxCell id="p3PnFOhuihg-IEMphHv4-109" value="Deleted Installment Items" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="807.5" y="-2530" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="p3PnFOhuihg-IEMphHv4-115" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="p3PnFOhuihg-IEMphHv4-111" edge="1" target="p3PnFOhuihg-IEMphHv4-80">
+        <mxCell id="p3PnFOhuihg-IEMphHv4-115" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="p3PnFOhuihg-IEMphHv4-111" target="p3PnFOhuihg-IEMphHv4-80" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1150" y="-2260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="p3PnFOhuihg-IEMphHv4-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="p3PnFOhuihg-IEMphHv4-111" edge="1" target="p3PnFOhuihg-IEMphHv4-84">
+        <mxCell id="p3PnFOhuihg-IEMphHv4-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="p3PnFOhuihg-IEMphHv4-111" target="p3PnFOhuihg-IEMphHv4-84" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1510" y="-2080" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="p3PnFOhuihg-IEMphHv4-111" value="&lt;span&gt;InstallmentDeletedOrderMembershipService&lt;/span&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="p3PnFOhuihg-IEMphHv4-111" value="&lt;span&gt;InstallmentDeletedOrderMembership&lt;/span&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="985" y="-2370" width="330" height="60" as="geometry" />
         </mxCell>
         <mxCell id="p3PnFOhuihg-IEMphHv4-116" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="p3PnFOhuihg-IEMphHv4-113" target="p3PnFOhuihg-IEMphHv4-111" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="p3PnFOhuihg-IEMphHv4-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="p3PnFOhuihg-IEMphHv4-113" edge="1" target="p3PnFOhuihg-IEMphHv4-84">
+        <mxCell id="p3PnFOhuihg-IEMphHv4-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="p3PnFOhuihg-IEMphHv4-113" target="p3PnFOhuihg-IEMphHv4-84" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1510" y="-2330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="p3PnFOhuihg-IEMphHv4-113" value="&lt;span&gt;InstallmentDeletedAccountItemMembershipService&lt;/span&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="p3PnFOhuihg-IEMphHv4-113" value="&lt;span&gt;InstallmentDeletedAccountItemMembership&lt;/span&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="990" y="-2500" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V-WP_IPiOYYayAlFAOkF-2" value="InstallmentMembershipSupport (Folder)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1055.5" y="-1410" width="190" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
