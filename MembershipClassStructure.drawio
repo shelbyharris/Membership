@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-24T20:16:29.845Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="VevQZJySdRZfoLXjqxjV" version="13.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-30T16:06:42.425Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="kPPcR3YgHQkagFefjOlL" version="13.7.5" type="github">
   <diagram name="Page-1" id="5f0bae14-7c28-e335-631c-24af17079c00">
-    <mxGraphModel dx="1239" dy="3263" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="3312" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -289,7 +289,7 @@
         <mxCell id="p3PnFOhuihg-IEMphHv4-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="p3PnFOhuihg-IEMphHv4-56" target="p3PnFOhuihg-IEMphHv4-58" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="M1-Q2qvU10VLMfu90m6M-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p3PnFOhuihg-IEMphHv4-56" target="M1-Q2qvU10VLMfu90m6M-2">
+        <mxCell id="M1-Q2qvU10VLMfu90m6M-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="p3PnFOhuihg-IEMphHv4-56" target="M1-Q2qvU10VLMfu90m6M-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="p3PnFOhuihg-IEMphHv4-56" value="Validate Method" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
@@ -321,7 +321,7 @@
         <mxCell id="p3PnFOhuihg-IEMphHv4-72" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="p3PnFOhuihg-IEMphHv4-70" target="p3PnFOhuihg-IEMphHv4-71" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="M1-Q2qvU10VLMfu90m6M-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p3PnFOhuihg-IEMphHv4-70" target="M1-Q2qvU10VLMfu90m6M-13">
+        <mxCell id="M1-Q2qvU10VLMfu90m6M-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="p3PnFOhuihg-IEMphHv4-70" target="M1-Q2qvU10VLMfu90m6M-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="p3PnFOhuihg-IEMphHv4-70" value="IF CONDITION:&lt;br&gt;Is Added Order?&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -333,7 +333,7 @@
         <mxCell id="p3PnFOhuihg-IEMphHv4-90" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="p3PnFOhuihg-IEMphHv4-71" target="p3PnFOhuihg-IEMphHv4-75" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="M1-Q2qvU10VLMfu90m6M-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p3PnFOhuihg-IEMphHv4-71" target="M1-Q2qvU10VLMfu90m6M-10">
+        <mxCell id="M1-Q2qvU10VLMfu90m6M-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="p3PnFOhuihg-IEMphHv4-71" target="M1-Q2qvU10VLMfu90m6M-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="p3PnFOhuihg-IEMphHv4-71" value="InstallmentAddedOrderMembership&lt;br&gt;Base: CreateInstallmentMembership&lt;br&gt;&lt;br&gt;Generate er101s for single installment order. If they werent added by user manually.&lt;br&gt;&lt;br&gt;Process() - creates er101s&lt;br&gt;CalculateAverage:" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -372,13 +372,13 @@
             <mxPoint x="1480.0399999999995" y="-2170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="M1-Q2qvU10VLMfu90m6M-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p3PnFOhuihg-IEMphHv4-80" target="M1-Q2qvU10VLMfu90m6M-10">
+        <mxCell id="M1-Q2qvU10VLMfu90m6M-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="p3PnFOhuihg-IEMphHv4-80" target="M1-Q2qvU10VLMfu90m6M-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="p3PnFOhuihg-IEMphHv4-80" value="InstallmentAddedAccountItemMembership&lt;br&gt;Base: CreateInstallmentMembership" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1008.13" y="-2185" width="283.75" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="M1-Q2qvU10VLMfu90m6M-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p3PnFOhuihg-IEMphHv4-84" target="M1-Q2qvU10VLMfu90m6M-4">
+        <mxCell id="M1-Q2qvU10VLMfu90m6M-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="p3PnFOhuihg-IEMphHv4-84" target="M1-Q2qvU10VLMfu90m6M-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="p3PnFOhuihg-IEMphHv4-84" value="Figure out paid orders and the overall paid amount. Use that and the period and installment and the amount of existing orders to determine the price of the items. If you have some paid orders and you add an installment then you will have to average the price among the unpaid orders and recalcuate the unpaid orders and the new order you have." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -387,10 +387,10 @@
         <mxCell id="V-WP_IPiOYYayAlFAOkF-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="p3PnFOhuihg-IEMphHv4-88" target="V-WP_IPiOYYayAlFAOkF-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="M1-Q2qvU10VLMfu90m6M-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p3PnFOhuihg-IEMphHv4-88" target="M1-Q2qvU10VLMfu90m6M-6">
+        <mxCell id="M1-Q2qvU10VLMfu90m6M-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="p3PnFOhuihg-IEMphHv4-88" target="M1-Q2qvU10VLMfu90m6M-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="M1-Q2qvU10VLMfu90m6M-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p3PnFOhuihg-IEMphHv4-88" target="M1-Q2qvU10VLMfu90m6M-8">
+        <mxCell id="M1-Q2qvU10VLMfu90m6M-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="p3PnFOhuihg-IEMphHv4-88" target="M1-Q2qvU10VLMfu90m6M-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="p3PnFOhuihg-IEMphHv4-88" value="(Base class)&lt;br&gt;InstallmentMembership&lt;br&gt;Process method&lt;br&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
@@ -459,30 +459,30 @@
         <mxCell id="V-WP_IPiOYYayAlFAOkF-2" value="InstallmentMembershipSupport (Folder)" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1055.51" y="-1400" width="190" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="M1-Q2qvU10VLMfu90m6M-2" value="Validate data is correct for class" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="M1-Q2qvU10VLMfu90m6M-2" value="Validate data is correct for class" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="750" y="-1690" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="M1-Q2qvU10VLMfu90m6M-4" value="Rules for averaging:&lt;br&gt;&lt;br&gt;1. Unpaid Installment order&lt;br&gt;2. Item will average based if the item is on other unpaid orders&lt;br&gt;&lt;br&gt;If we have these conditions we count the installment order towards an item&#39;s price.&lt;br&gt;&lt;br&gt;The full price comes from the account membership item." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="M1-Q2qvU10VLMfu90m6M-4" value="Rules for averaging:&lt;br&gt;&lt;br&gt;1. Item will average based if the item is on any order&lt;br&gt;&lt;br&gt;If we have these conditions we count the installment order towards an item&#39;s price.&lt;br&gt;&lt;br&gt;The full price comes from the account membership item." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1645" y="-2070" width="120" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="M1-Q2qvU10VLMfu90m6M-6" value="(Base class For Delete)&lt;br&gt;DeleteInstallmentMembership&lt;br&gt;Update is main method&lt;br&gt;Process and Calculate average called in here&lt;br&gt;Calculate Average Method implemented for delete" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="M1-Q2qvU10VLMfu90m6M-6" value="(Base class For Delete)&lt;br&gt;DeleteInstallmentMembership&lt;br&gt;Update is main method&lt;br&gt;Process and Calculate average called in here&lt;br&gt;Calculate Average Method implemented for delete" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="788.76" y="-1560" width="192.5" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="M1-Q2qvU10VLMfu90m6M-8" value="(Base class For Add)&lt;br&gt;CreateInstallmentMembership&lt;br&gt;Create is main method&lt;br&gt;Process and calculate averaged called in here&lt;br&gt;Calculate Average Method implemented for create" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="M1-Q2qvU10VLMfu90m6M-8" value="(Base class For Add)&lt;br&gt;CreateInstallmentMembership&lt;br&gt;Create is main method&lt;br&gt;Process and calculate averaged called in here&lt;br&gt;Calculate Average Method implemented for create" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1330.01" y="-1560" width="192.5" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="M1-Q2qvU10VLMfu90m6M-10" value="InstallmentAddedOrderItemMembership&lt;br&gt;Base: CreateInstallmentMembership&lt;br&gt;&lt;br&gt;Generate er101s for single installment item..&lt;br&gt;&lt;br&gt;Process() - creates er101&lt;br&gt;CalculateAverage:" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="M1-Q2qvU10VLMfu90m6M-10" value="InstallmentAddedOrderItemMembership&lt;br&gt;Base: CreateInstallmentMembership&lt;br&gt;&lt;br&gt;Generate er101s for single installment item..&lt;br&gt;&lt;br&gt;Process() - creates er101&lt;br&gt;CalculateAverage:" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1023.7500000000001" y="-2090" width="262.5" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="M1-Q2qvU10VLMfu90m6M-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="M1-Q2qvU10VLMfu90m6M-13" target="p3PnFOhuihg-IEMphHv4-78">
+        <mxCell id="M1-Q2qvU10VLMfu90m6M-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="M1-Q2qvU10VLMfu90m6M-13" target="p3PnFOhuihg-IEMphHv4-78" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="M1-Q2qvU10VLMfu90m6M-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="M1-Q2qvU10VLMfu90m6M-13" target="M1-Q2qvU10VLMfu90m6M-10">
+        <mxCell id="M1-Q2qvU10VLMfu90m6M-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="M1-Q2qvU10VLMfu90m6M-13" target="M1-Q2qvU10VLMfu90m6M-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="976.25" y="-2025" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="M1-Q2qvU10VLMfu90m6M-13" value="IF CONDITION:&lt;br&gt;Is Added&amp;nbsp; Item to existing installment Order?&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="M1-Q2qvU10VLMfu90m6M-13" value="IF CONDITION:&lt;br&gt;Is Added&amp;nbsp; Item to existing installment Order?&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="798.75" y="-2070" width="97.5" height="90" as="geometry" />
         </mxCell>
       </root>
