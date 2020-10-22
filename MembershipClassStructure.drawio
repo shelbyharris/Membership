@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-30T16:06:42.425Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="kPPcR3YgHQkagFefjOlL" version="13.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-22T18:51:31.829Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="-Yu-377zXBM3ZTV3xFk9" version="13.8.1" type="github">
   <diagram name="Page-1" id="5f0bae14-7c28-e335-631c-24af17079c00">
-    <mxGraphModel dx="1422" dy="3312" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1673" dy="3446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -266,7 +266,7 @@
         <mxCell id="p3PnFOhuihg-IEMphHv4-44" value="Ask question for adding item to unpaid installents if yes then pass anwer to membership order business to create er101s for each installment" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="430" y="-780" width="120" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="p3PnFOhuihg-IEMphHv4-46" value="Is existing Account membershiup adding Account member items?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="p3PnFOhuihg-IEMphHv4-46" value="Is existing Account membership adding Account member items?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="267.5" y="-665" width="105" height="130" as="geometry" />
         </mxCell>
         <mxCell id="p3PnFOhuihg-IEMphHv4-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.393;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="p3PnFOhuihg-IEMphHv4-48" target="p3PnFOhuihg-IEMphHv4-54" edge="1">
